@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Dental",
+        "description": "We have a rich Dental depertment . We will takecare of your smile",
+        "img": "https://i.ibb.co/kh7T5bM/1.png",
+        "contact": 880222115
+    },
+    {
+        "id": 2,
+        "name": "Cardiology",
+        "description": "We have best doctors of Cardiology. We will takecare of your heart",
+        "img": "https://i.ibb.co/qWrf9Sp/2.png",
+        "contact": 880222115
+    },
+    {
+        "id": 3,
+        "name": "Neurology",
+        "description": "We have best doctors of Neurology . We ensure a good quality of treatment",
+        "img": "https://i.ibb.co/m5xcdFH/3.png",
+        "contact": 880222111
+    },
+    {
+        "id": 4,
+        "name": "Gynecology",
+        "description": "We have specialized of Gynecology . We will takecare of yours",
+        "img": "https://i.ibb.co/jySGjpW/4.png",
+        "contact": 880222112
+    },
+    {
+        "id": 5,
+        "name": "Child Care",
+        "description": "We have child specialized . They are the best doctor of the city ",
+        "img": "https://i.ibb.co/VqRXg58/5.png",
+        "contact": 880222113
+    },
+    {
+        "id": 6,
+        "name": "Eye Care",
+        "description": "We have a rich Eye depertment . We will takecare of your eyes",
+        "img": "https://i.ibb.co/d2mPMzM/6.png",
+        "contact": 880222114
+    }
+]        

@@ -1,0 +1,18 @@
+.card-icon{
+    font-size: 40px;
+    border: 1px solid #b6e0d2a2;
+    height: 80px;
+    width: 80px;
+    line-height: 80px;
+    border-radius: 50%;
+    color: #029967;
+    background: #D4F7E8;
+}
+.custom-card{
+    border: 1px solid #029967 ;
+    border-radius: 20px;
+}
+.custom-card-title{
+    color: #029967;
+    font-weight: 700;
+}
