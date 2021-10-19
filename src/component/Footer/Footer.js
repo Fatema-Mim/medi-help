@@ -14,7 +14,7 @@ const Footer = () => {
                     <Col xs="12" md="6" lg="6" className="ps-5">
                         <h1>Contact <span className="footer-title">Info</span></h1>
                         <div className="custom-text mt-3">
-                            <p><i className="fas fa-map-marker footer-title"></i> PlotNo 31,Road 3,Begum Rokeya sarani, Block-D, Mirpur </p>
+                            <p><i className="fas fa-map-marker footer-title"></i> PlotNo 31,Road 3, Block-D, Mirpur </p>
                             <p><i className="fas fa-envelope footer-title"></i> Email : mediHelp123@gmail.com </p>
                             <p><i className="fas fa-phone-alt footer-title"></i> Phone : +0992838299</p>
                         </div>
