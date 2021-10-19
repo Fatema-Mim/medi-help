@@ -34,13 +34,13 @@ function App() {
             <Route path="/registration">
               <Registration></Registration>
             </Route>
-            <Route path="/doctors">
+            <PrivateRoute path="/doctors">
               <Doctors></Doctors>
-            </Route>
+            </PrivateRoute>
             
-            <Route path="/about">
+            <PrivateRoute path="/about">
               <AboutUs></AboutUs>
-            </Route>
+            </PrivateRoute>
             <Route path="*">
                 <NoFound></NoFound>
             </Route>
