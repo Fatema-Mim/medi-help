@@ -40,7 +40,7 @@ function App() {
             
             <PrivateRoute path="/about">
               <AboutUs></AboutUs>
-            </PrivateRoute>
+            </PrivateRoute >
             <Route path="*">
                 <NoFound></NoFound>
             </Route>
